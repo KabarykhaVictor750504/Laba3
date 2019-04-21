@@ -1,9 +1,12 @@
 sudo: false
-
 language: java
+install: true
 java:
   - 11.02
-script: mvn clean package
+script:
+- mvn install
+script:
+- mvn clean package
 after_script:
  - echo "Script finished"
 after_success:
