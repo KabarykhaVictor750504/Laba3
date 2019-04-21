@@ -2,7 +2,7 @@ sudo: false
 
 language: java
 java:
-  - 9
+  - 11.02
 
 branches:
   only:
