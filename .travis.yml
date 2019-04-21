@@ -2,7 +2,7 @@ sudo: false
 language: java
 install: true
 java:
-  - 11.02
+  - 11
 script:
 ./mvnw clean install
 after_script:
