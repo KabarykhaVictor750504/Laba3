@@ -4,9 +4,7 @@ install: true
 java:
   - 11.02
 script:
-- mvn install
-script:
-- mvn clean package
+./mvnw clean install
 after_script:
  - echo "Script finished"
 after_success:
