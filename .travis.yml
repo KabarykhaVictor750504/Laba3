@@ -3,6 +3,14 @@ sudo: false
 language: java
 java:
   - 11.02
+script:
+  - mvn clean package
+after_script:
+ - echo "Script finished"
+after_success:
+ - echo "Build was successful. $TRAVIS_TEST_RESULT"
+after_failure:
+ - echo "Build was failed"
 
 branches:
   only:
