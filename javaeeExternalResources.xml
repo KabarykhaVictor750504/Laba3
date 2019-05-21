@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://javafx.com/fxml/1" location="$USER_HOME$/IdeaProjects/DotaBuff2" />
+    <ignored-resource url="http://javafx.com/fxml/1" />
+    <ignored-resource url="http://javafx.com/javafx/8" />
+  </component>
+</application>
