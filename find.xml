@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Kursach'" />
-    <option name="defaultScopeName" value="Project 'Kursach'" />
-    <option name="SEARCH_SCOPE" value="Project 'Kursach'" />
+    <option name="customScope" value="File '...\src\diagramm.uml [DotaBuff2]'" />
+    <option name="defaultScopeName" value="File '...\src\diagramm.uml [DotaBuff2]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\diagramm.uml [DotaBuff2]'" />
   </component>
 </application>
